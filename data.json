@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Meal 1",
+    "description": "Some awesome text",
+    "image": "./assets"
+  },
+  {
+    "id": 2,
+    "name": "Meal 2",
+    "description": "Some awesome text",
+    "image": "./assets"
+  },
+  {
+    "id": 3,
+    "name": "Meal 3",
+    "description": "Some awesome text",
+    "image": "./assets"
+  },
+  {
+    "id": 4,
+    "name": "Meal 4",
+    "description": "Some awesome text",
+    "image": "./assets"
+  },
+  {
+    "id": 5,
+    "name": "Meal 5",
+    "description": "Some awesome text",
+    "image": "./assets"
+  }
+]
